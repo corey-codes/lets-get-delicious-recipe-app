@@ -1,0 +1,23 @@
+// 900PX MAX-WIDTH ========================================
+
+@media (max-width: 900px) {
+  header {
+    height: 60vh;
+  }
+
+  div.recipe-card {
+    width: calc((100% / 2) - 2%);
+  }
+}
+
+// 600PX MAX-WIDTH ========================================
+
+@media (max-width: 600px) {
+  div.recipe-card {
+    min-width: 100%;
+
+    img {
+      margin: 0 auto;
+    }
+  }
+}

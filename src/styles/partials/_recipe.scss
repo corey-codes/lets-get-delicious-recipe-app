@@ -1,0 +1,27 @@
+div.recipe-card { 
+    flex-direction: column; 
+    margin: 1%;
+    width: calc((100% / 3) - 2%);
+    height: 100%;
+    justify-content: center;
+
+    h2::after {
+        background: none repeat scroll 0 0 $third-color;
+        bottom: -10px;
+        content: "";
+        display: block;
+        height: 2px;
+        position: relative;
+        width: 100px;
+        margin: 0 auto;
+    }
+
+    p {
+        font-size: 1rem;
+    }
+
+    li {
+        font-size: 1rem;
+    }
+    
+}
