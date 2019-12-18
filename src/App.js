@@ -15,24 +15,21 @@ const App = () => {
   // REMOVE DEFAULT SEARCH
   const [query, setQuery] = useState('');
 
-  // MAKE REQUEST FROM API
-  // ASYNC/AWAIT REQUEST FOR DATA IN JSON
-  const getRecipes = async () => {
-    const response = await fetch(`https://api.edamam.com/search?q=${query}&app_id=${APP_ID}&app_key=${APP_KEY}`);
-    const data = await response.json();
-    setRecipes(data.hits);
-    console.log(data.hits);
-  };
-
+  // MOVE API CALL WITHIN USEEFFECT AND SET TO SEARCH ONLY ON QUERY SUBMIT
   useEffect(() => {
-    getRecipes();
-  }, [getRecipes, query]);
+    const getRecipes = async () => {
+      const response = await fetch(`https://api.edamam.com/search?q=${query}&app_id=${APP_ID}&app_key=${APP_KEY}`);
+      const data = await response.json();
+      setRecipes(data.hits);
+      console.log(data.hits);
+    }; getRecipes();
+  }, [query]);
 
   const updateSearch = e => {
     setSearch(e.target.value);
     console.log(search);
   }
-
+  // STOP PAGE FROM RELOADING AUTOMATICALLY
   const getSearch = e => {
     e.preventDefault();
     setQuery(search);
