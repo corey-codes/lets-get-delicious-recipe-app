@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/lets-get-delicious-recipe-app/static/css/main.bbc46ed2.chunk.css",
-    "main.js": "/lets-get-delicious-recipe-app/static/js/main.80a9a5ee.chunk.js",
-    "main.js.map": "/lets-get-delicious-recipe-app/static/js/main.80a9a5ee.chunk.js.map",
-    "runtime-main.js": "/lets-get-delicious-recipe-app/static/js/runtime-main.dbe7e556.js",
-    "runtime-main.js.map": "/lets-get-delicious-recipe-app/static/js/runtime-main.dbe7e556.js.map",
-    "static/js/2.e476125d.chunk.js": "/lets-get-delicious-recipe-app/static/js/2.e476125d.chunk.js",
-    "static/js/2.e476125d.chunk.js.map": "/lets-get-delicious-recipe-app/static/js/2.e476125d.chunk.js.map",
+    "main.js": "/lets-get-delicious-recipe-app/static/js/main.3caa6329.chunk.js",
+    "main.js.map": "/lets-get-delicious-recipe-app/static/js/main.3caa6329.chunk.js.map",
+    "runtime-main.js": "/lets-get-delicious-recipe-app/static/js/runtime-main.b408e08c.js",
+    "runtime-main.js.map": "/lets-get-delicious-recipe-app/static/js/runtime-main.b408e08c.js.map",
+    "static/js/2.06778b0e.chunk.js": "/lets-get-delicious-recipe-app/static/js/2.06778b0e.chunk.js",
+    "static/js/2.06778b0e.chunk.js.map": "/lets-get-delicious-recipe-app/static/js/2.06778b0e.chunk.js.map",
     "index.html": "/lets-get-delicious-recipe-app/index.html",
-    "precache-manifest.ff710fa72b615b42e1d8117e79d3baf8.js": "/lets-get-delicious-recipe-app/precache-manifest.ff710fa72b615b42e1d8117e79d3baf8.js",
+    "precache-manifest.169af88bfd79afe3f627a9f286fe0ef1.js": "/lets-get-delicious-recipe-app/precache-manifest.169af88bfd79afe3f627a9f286fe0ef1.js",
     "service-worker.js": "/lets-get-delicious-recipe-app/service-worker.js",
     "static/css/main.bbc46ed2.chunk.css.map": "/lets-get-delicious-recipe-app/static/css/main.bbc46ed2.chunk.css.map",
-    "static/js/2.e476125d.chunk.js.LICENSE": "/lets-get-delicious-recipe-app/static/js/2.e476125d.chunk.js.LICENSE",
+    "static/js/2.06778b0e.chunk.js.LICENSE": "/lets-get-delicious-recipe-app/static/js/2.06778b0e.chunk.js.LICENSE",
     "static/media/styles.css": "/lets-get-delicious-recipe-app/static/media/food.e16884b4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dbe7e556.js",
-    "static/js/2.e476125d.chunk.js",
+    "static/js/runtime-main.b408e08c.js",
+    "static/js/2.06778b0e.chunk.js",
     "static/css/main.bbc46ed2.chunk.css",
-    "static/js/main.80a9a5ee.chunk.js"
+    "static/js/main.3caa6329.chunk.js"
   ]
 }
