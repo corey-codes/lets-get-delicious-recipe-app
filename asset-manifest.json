@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/corey-codes/lets-get-delicious-recipe-app/static/css/main.d1b05096.chunk.css",
+    "main.js": "/corey-codes/lets-get-delicious-recipe-app/static/js/main.7b980166.chunk.js",
+    "main.js.map": "/corey-codes/lets-get-delicious-recipe-app/static/js/main.7b980166.chunk.js.map",
+    "runtime-main.js": "/corey-codes/lets-get-delicious-recipe-app/static/js/runtime-main.da066c57.js",
+    "runtime-main.js.map": "/corey-codes/lets-get-delicious-recipe-app/static/js/runtime-main.da066c57.js.map",
+    "static/js/2.a31d34a9.chunk.js": "/corey-codes/lets-get-delicious-recipe-app/static/js/2.a31d34a9.chunk.js",
+    "static/js/2.a31d34a9.chunk.js.map": "/corey-codes/lets-get-delicious-recipe-app/static/js/2.a31d34a9.chunk.js.map",
+    "index.html": "/corey-codes/lets-get-delicious-recipe-app/index.html",
+    "precache-manifest.439347d50ac006b933c96281f048d76a.js": "/corey-codes/lets-get-delicious-recipe-app/precache-manifest.439347d50ac006b933c96281f048d76a.js",
+    "service-worker.js": "/corey-codes/lets-get-delicious-recipe-app/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/corey-codes/lets-get-delicious-recipe-app/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.a31d34a9.chunk.js.LICENSE": "/corey-codes/lets-get-delicious-recipe-app/static/js/2.a31d34a9.chunk.js.LICENSE",
+    "static/media/logo.svg": "/corey-codes/lets-get-delicious-recipe-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da066c57.js",
+    "static/js/2.a31d34a9.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.7b980166.chunk.js"
+  ]
+}
