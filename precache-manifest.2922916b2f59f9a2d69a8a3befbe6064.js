@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "88c6d495633014901e09e43f52d509c4",
+    "revision": "458b1ed520302890d5d9ef2b13be99c5",
     "url": "/lets-get-delicious-recipe-app/index.html"
   },
   {
-    "revision": "b80074a5e13b737d53d5",
+    "revision": "30b93018b1d6b26952fb",
     "url": "/lets-get-delicious-recipe-app/static/css/main.bbc46ed2.chunk.css"
   },
   {
-    "revision": "f1a72b011247f8d4405a",
-    "url": "/lets-get-delicious-recipe-app/static/js/2.06778b0e.chunk.js"
+    "revision": "9ae9361077ed7b061daf",
+    "url": "/lets-get-delicious-recipe-app/static/js/2.183f13b2.chunk.js"
   },
   {
     "revision": "d705cb622423d72c5defbf368ca70dcc",
-    "url": "/lets-get-delicious-recipe-app/static/js/2.06778b0e.chunk.js.LICENSE"
+    "url": "/lets-get-delicious-recipe-app/static/js/2.183f13b2.chunk.js.LICENSE"
   },
   {
-    "revision": "b80074a5e13b737d53d5",
-    "url": "/lets-get-delicious-recipe-app/static/js/main.3caa6329.chunk.js"
+    "revision": "30b93018b1d6b26952fb",
+    "url": "/lets-get-delicious-recipe-app/static/js/main.225a7766.chunk.js"
   },
   {
     "revision": "0aeb5eaae44afb431654",
