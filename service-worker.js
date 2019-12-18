@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/corey-codes/lets-get-delicious-recipe-app/precache-manifest.439347d50ac006b933c96281f048d76a.js"
+  "/corey-codes/lets-get-delicious-recipe-app/precache-manifest.68d3ab7ca990bf57a7d1a16508acb2dd.js"
 );
 
 self.addEventListener('message', (event) => {
