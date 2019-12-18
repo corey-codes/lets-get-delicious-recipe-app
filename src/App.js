@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Recipe from './Recipe';
-import './styles'
+import './styles/styles.css'
 
 // ==================================================================
 
@@ -15,10 +15,6 @@ const App = () => {
   // REMOVE DEFAULT SEARCH
   const [query, setQuery] = useState('');
 
-  useEffect (() => {
-    getRecipes();
-  }, [getRecipes, query]);
-
   // MAKE REQUEST FROM API
   // ASYNC/AWAIT REQUEST FOR DATA IN JSON
   const getRecipes = async () => {
@@ -28,9 +24,9 @@ const App = () => {
     console.log(data.hits);
   };
 
-  // useEffect(() => {
-  //   getRecipes();
-  // }, [getRecipes, query]);
+  useEffect(() => {
+    getRecipes();
+  }, [getRecipes, query]);
 
   const updateSearch = e => {
     setSearch(e.target.value);
