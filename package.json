@@ -1,6 +1,6 @@
 {
   "homepage": "https://corey-codes.github.io/lets-get-delicious-recipe-app/",
-  "name": "recipe-app",
+  "name": "lets-get-delicious-recipe-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
