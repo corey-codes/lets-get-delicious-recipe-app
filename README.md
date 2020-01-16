@@ -8,7 +8,7 @@ CSS3 <br>
 JavaScript <br>
 React (Bootstrapped with Create React App)<br>
 Edamam API <br>
-
+VSCode <br>
 
 
 
