@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/lets-get-delicious-recipe-app/static/css/main.bbc46ed2.chunk.css",
-    "main.js": "/lets-get-delicious-recipe-app/static/js/main.225a7766.chunk.js",
-    "main.js.map": "/lets-get-delicious-recipe-app/static/js/main.225a7766.chunk.js.map",
+    "main.js": "/lets-get-delicious-recipe-app/static/js/main.7a518d9e.chunk.js",
+    "main.js.map": "/lets-get-delicious-recipe-app/static/js/main.7a518d9e.chunk.js.map",
     "runtime-main.js": "/lets-get-delicious-recipe-app/static/js/runtime-main.b408e08c.js",
     "runtime-main.js.map": "/lets-get-delicious-recipe-app/static/js/runtime-main.b408e08c.js.map",
     "static/js/2.183f13b2.chunk.js": "/lets-get-delicious-recipe-app/static/js/2.183f13b2.chunk.js",
     "static/js/2.183f13b2.chunk.js.map": "/lets-get-delicious-recipe-app/static/js/2.183f13b2.chunk.js.map",
     "index.html": "/lets-get-delicious-recipe-app/index.html",
-    "precache-manifest.2922916b2f59f9a2d69a8a3befbe6064.js": "/lets-get-delicious-recipe-app/precache-manifest.2922916b2f59f9a2d69a8a3befbe6064.js",
+    "precache-manifest.794c4598a04cfc70cdc74cae913e1c2a.js": "/lets-get-delicious-recipe-app/precache-manifest.794c4598a04cfc70cdc74cae913e1c2a.js",
     "service-worker.js": "/lets-get-delicious-recipe-app/service-worker.js",
     "static/css/main.bbc46ed2.chunk.css.map": "/lets-get-delicious-recipe-app/static/css/main.bbc46ed2.chunk.css.map",
     "static/js/2.183f13b2.chunk.js.LICENSE": "/lets-get-delicious-recipe-app/static/js/2.183f13b2.chunk.js.LICENSE",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.b408e08c.js",
     "static/js/2.183f13b2.chunk.js",
     "static/css/main.bbc46ed2.chunk.css",
-    "static/js/main.225a7766.chunk.js"
+    "static/js/main.7a518d9e.chunk.js"
   ]
 }

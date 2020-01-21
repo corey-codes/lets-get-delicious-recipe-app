@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "458b1ed520302890d5d9ef2b13be99c5",
+    "revision": "48ab1b40dde1974a12f6f8ee8341db8c",
     "url": "/lets-get-delicious-recipe-app/index.html"
   },
   {
-    "revision": "30b93018b1d6b26952fb",
+    "revision": "e40027f997ec5a402f03",
     "url": "/lets-get-delicious-recipe-app/static/css/main.bbc46ed2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lets-get-delicious-recipe-app/static/js/2.183f13b2.chunk.js.LICENSE"
   },
   {
-    "revision": "30b93018b1d6b26952fb",
-    "url": "/lets-get-delicious-recipe-app/static/js/main.225a7766.chunk.js"
+    "revision": "e40027f997ec5a402f03",
+    "url": "/lets-get-delicious-recipe-app/static/js/main.7a518d9e.chunk.js"
   },
   {
     "revision": "0aeb5eaae44afb431654",
