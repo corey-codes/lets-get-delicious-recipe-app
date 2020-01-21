@@ -21,13 +21,12 @@ const App = () => {
       const response = await fetch(`https://api.edamam.com/search?q=${query}&app_id=${APP_ID}&app_key=${APP_KEY}`);
       const data = await response.json();
       setRecipes(data.hits);
-      console.log(data.hits);
+      console.log(data);
     }; getRecipes();
   }, [query]);
 
   const updateSearch = e => {
     setSearch(e.target.value);
-    console.log(search);
   }
   // STOP PAGE FROM RELOADING AUTOMATICALLY
   const getSearch = e => {
@@ -58,7 +57,7 @@ const App = () => {
         <div className='results-section container'>
           {recipes.map(recipe => (
             <Recipe
-              key={recipe.recipe.label}
+              key={recipe.recipe.uri}
               image={recipe.recipe.image}
               title={recipe.recipe.label}
               ingredients={recipe.recipe.ingredients}
